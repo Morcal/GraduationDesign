@@ -1,0 +1,30 @@
+{
+  "type": "spoken",
+  "spoken": [
+    {
+      "id": "spoke01",
+      "title": "英语口语入门 01",
+      "audioUrl": "http://7xrfxa.com1.z0.glb.clouddn.com/sayenglish01.mp4"
+    },
+    {
+      "id": "spoke02",
+      "title": "英语口语入门 02",
+      "audioUrl": "http://7xrfxa.com1.z0.glb.clouddn.com/sayenglish02.mp4"
+    },
+    {
+      "id": "spoke03",
+      "title": "英语口语入门 03",
+      "audioUrl": "http://7xrfxa.com1.z0.glb.clouddn.com/sayenglish03.mp4"
+    },
+    {
+      "id": "spoke04",
+      "title": "英语口语入门 04",
+      "audioUrl": "http://7xrfxa.com1.z0.glb.clouddn.com/sayenglish04.mp4"
+    },
+    {
+      "id": "spoke05",
+      "title": "英语口语入门 05",
+      "audioUrl": "http://7xrfxa.com1.z0.glb.clouddn.com/sayenglish05.mp4"
+    }
+  ]
+}
